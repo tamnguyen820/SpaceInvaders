@@ -1,5 +1,5 @@
 # Space Invaders
-Classic Space Invaders game with modern graphics.
+Endless Space Invaders game with modern graphics.
 
 ## Getting started
 Follow the below steps to ensure the program runs properly.
